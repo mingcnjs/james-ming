@@ -2,7 +2,8 @@
 
 The simplest design for your personal website.
 
-![Overview](https://github.com/mingcnjs/james-ming)
+![Overview](https://github.com/mingcnjs/james-ming/assets/45022206/fb69c7fa-b424-49c9-9b35-8efe02a27308)
+
 
 Built with:
 
