@@ -27,6 +27,12 @@ const sidebarItems: SidebarLinkProps[] = [
     offset: -100,
     label: "Certifications",
   },
+  {
+    to: "contact",
+    href: "#contact",
+    offset: -100,
+    label: "Contact me",
+  },
 ];
 
 const Header = () => {

@@ -1,6 +1,7 @@
 import Head from "next/head";
 import About from "./about";
 import Certifications from "./certifications";
+import Contact from "./contact";
 import Experience from "./experience";
 import Project from "./projects";
 
@@ -63,6 +64,7 @@ export default function Home() {
       <Experience />
       <Project />
       <Certifications />
+      <Contact />
       <div className="mt-20">
         A copied design and coded in Visual Studio Code by myself truly. Built
         with NextJs and Tailwind CSS, deployed with Vercel.
