@@ -9,8 +9,8 @@ const Contact = () => {
 
   const handleSubmit = async (e: any) => {
     e.preventDefault();
-    const serviceId = "service_lihr0hr";
-    const templateId = "template_xr6l17a";
+    const serviceId = "service_9mda07r";
+    const templateId = "template_mghl9sl";
 
     try {
       setLoading(true);
@@ -67,7 +67,7 @@ const Contact = () => {
                 id="email"
                 ref={emailRef}
                 className="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-                placeholder="atli09soroka@gmail.com"
+                placeholder="james.ming.ca@gmail.com"
                 required
               />
             </div>

@@ -2,6 +2,7 @@ import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 import Layout from "./layout";
 import { useEffect } from "react";
+import emailjs from "@emailjs/browser";
 
 export default function App({ Component, pageProps }: AppProps) {
   useEffect(() => {
@@ -11,6 +12,7 @@ export default function App({ Component, pageProps }: AppProps) {
         focus.style.background = `radial-gradient(400px at ${e.clientX}px ${e.clientY}px, rgba(29, 78, 216, 0.25), transparent 80%)`;
       }
     });
+    emailjs.init("vyHUD82gtfXt6z_FQ");
     return () =>
       window.removeEventListener("mousemove", function (e) {
         if (focus != null) {
