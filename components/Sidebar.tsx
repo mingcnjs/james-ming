@@ -84,7 +84,7 @@ const Header = () => {
           <li className="mr-5 text-xs">
             <a
               className="block hover:text-slate-200"
-              href="https://www.linkedin.com/in/james-m-b311a52a5/"
+              href="https://www.linkedin.com/in/j1990-m-engineer/"
               target="_blank"
               rel="noreferrer"
             >
