@@ -138,7 +138,7 @@ const Header = () => {
             </a>
           </li>
           <li className="mr-5 text-xs">
-            <a className="block hover:text-slate-200" href="tel:+17786524842">
+            <a className="block hover:text-slate-200" href="tel:+17783002646">
               <span className="sr-only">Phone</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
