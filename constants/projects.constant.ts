@@ -7,13 +7,6 @@ export const projectItems = [
     image: "/images/projects/zillow.png",
   },
   {
-    title: "Confidant Health",
-    description:
-      "Confidant Health is both a tech platform and a network of top-notch behavioral health providers. Confidant Health is a virtual substance use and mental health clinic dedicated to offering evidence-based care for individuals and families.",
-    href: "https://www.confidanthealth.com/",
-    image: "/images/projects/confidant.png",
-  },
-  {
     title: "Campuswire",
     description:
       "Campuswire is the tool for college classes that makes class discussions, Q&A and announcements extremely simple.",

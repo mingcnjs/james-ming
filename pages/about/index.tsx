@@ -45,11 +45,11 @@ const About = () => {
           5 cross-platform applications at{" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            href="https://www.confidanthealth.com/"
+            href="https://app.sivo.com/"
             target="_blank"
             rel="noreferrer"
           >
-            Confidant Health
+            Sivo
           </a>
           . related to the stuff that I have learned over the years in Web
           Development so it can help other people of the Dev Community.
