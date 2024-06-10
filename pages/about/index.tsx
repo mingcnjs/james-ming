@@ -20,7 +20,16 @@ const About = () => {
       <div>
         <p className="mb-4 text-justify">
           Accomplished Senior Full-Stack Developer with 12+ years of experience
-          in driving user engagement via cutting-edge UI/UX solutions.
+          in driving user engagement via cutting-edge UI/UX solutions and ex-
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="https://www.zillow.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Zillow
+          </a>{" "}
+          developer.
         </p>
         <p className="mb-4 text-justify">
           Pioneered an in-house UI library at{" "}

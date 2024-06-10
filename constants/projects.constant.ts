@@ -1,5 +1,12 @@
 export const projectItems = [
   {
+    title: "Zillow",
+    description:
+      "Zillow is reimagining real estate to make home a reality for more and more people.",
+    href: "https://www.zillow.com/",
+    image: "/images/projects/zillow.png",
+  },
+  {
     title: "Confidant Health",
     description:
       "Confidant Health is both a tech platform and a network of top-notch behavioral health providers. Confidant Health is a virtual substance use and mental health clinic dedicated to offering evidence-based care for individuals and families.",

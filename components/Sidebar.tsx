@@ -122,7 +122,7 @@ const Header = () => {
           <li className="mr-5 text-xs">
             <a
               className="block hover:text-slate-200"
-              href="mailto:james.ming.ca@gmail.com?subject=Subject&body=Body%20goes%20here"
+              href="mailto:jmsr0922dev@gmail.com?subject=Subject&body=Body%20goes%20here"
             >
               <span className="sr-only">Email</span>
               <svg

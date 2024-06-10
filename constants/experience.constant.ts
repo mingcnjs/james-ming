@@ -1,11 +1,11 @@
 export const experienceItems = [
   {
-    duration: "2023 — Present",
-    durationLabel: "2023 — Present",
-    company: "Confidant Health",
-    projectName: "Confidant Health",
+    duration: "Jan 2023 — Mar 2024",
+    durationLabel: "Jan 2023 — Mar 2024",
+    company: "Zillow",
+    projectName: "Zillow",
     jobTitle: "Senior Full-Stack Developer",
-    href: "https://www.confidanthealth.com/",
+    href: "https://www.zillow.com/",
     skills: [
       "Javascript",
       "Typescript",
@@ -68,7 +68,7 @@ export const experienceItems = [
   {
     duration: "May 2017 — Jan 2020",
     durationLabel: "May 2017 to Jan 2020",
-    company: "Emtec",
+    company: "Sivo",
     projectName: "Sivo",
     jobTitle: "Senior Frontend Engineer",
     href: "https://app.sivo.com/",
